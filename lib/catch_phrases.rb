@@ -16,8 +16,6 @@ end
 
 
 def all_phrases(mario, toadstool, link)
-  puts answer
   answer = "#{mario} #{toadstool} #{link}"
   puts answer
-  return answer
 end
