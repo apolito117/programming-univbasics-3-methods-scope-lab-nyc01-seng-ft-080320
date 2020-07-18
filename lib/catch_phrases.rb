@@ -13,4 +13,3 @@ def link
   return_phrase = "It's Dangerous To Go Alone! Take This."
   puts return_phrase
 end
-return_phrase
